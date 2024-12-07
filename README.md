@@ -18,10 +18,11 @@ The goal of this assignment is to assess your ability to write a Python script t
 - Sort and display the results in descending order of request counts.  
 
 #### Example Output:
-```IP Address Request Count
-192.168.1.1 234
-203.0.113.5 187
-10.0.0.2 92
+```
+IP Address    Request Count
+192.168.1.1   234
+203.0.113.5   187
+10.0.0.2      92
 ```
 
 ---
@@ -32,9 +33,10 @@ The goal of this assignment is to assess your ability to write a Python script t
 - Provide the endpoint name and its access count.  
 
 #### Example Output:
+```
 Most Frequently Accessed Endpoint:
 /home (Accessed 403 times)
-
+```
 
 
 ---
@@ -46,10 +48,11 @@ Most Frequently Accessed Endpoint:
 
 #### Example Output:
 Suspicious Activity Detected:
+```
 IP Address       Failed Login Attempts
 192.168.1.100    56
 203.0.113.34     12
-
+```
 
 ---
 
